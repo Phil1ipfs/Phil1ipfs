@@ -1,9 +1,8 @@
-<p><img align="Center" <alt="coding" width="1000" height="390" src="https://user-ima![giphy](https://user-images.githubusercontent.com/127711945/229032840-b42dd65a-fce7-49fe-9243-eaf773e2d214.gif)
-ges.githubusercontent.com/127711945/229029947-74cb053b-f92a-4772-9ff7-cbe48ede66a7.png"></p>
+<p> <img align="Center" <alt="coding" width="1000" height="500" src="https://user-images.githubusercontent.com/127711945/229032990-3dcd769a-56ef-4867-a7ec-3ac433ce8823.gif">
+  </p>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <h1 style="text-align: center;">  Hi 👋, I'm John Phillip Emmanuel B. Casingal</h1>
-</div>
+
+<h1 align="center">Hi 👋, I'm John Phillip Emmanuel B. Casingal</h1>
 
 <h3 align="center">BS Information Technology specializing in Mobile and Web Application from National University - Manila, Philippines</h3>
 
@@ -18,7 +17,7 @@ ges.githubusercontent.com/127711945/229029947-74cb053b-f92a-4772-9ff7-cbe48ede66
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  <img align="right" <alt="coding" width="350" height="390" src="https://user-images.githubusercontent.com/127711945/229028458-c39da565-1991-481d-9fd4-9a42796d6240.png">
+  <img align="right" <alt="coding" width="350" height="390" src="https://user-images.githubusercontent.com/127711945/229033748-6a06aca4-ff69-4f9e-9c6f-d2fd1b348ea2.gif">
 </p>
 
 <p align="left">
