@@ -1,7 +1,8 @@
-<p><img align="Center" <alt="coding" width="1000" height="390" src="https://user-images.githubusercontent.com/127711945/229029947-74cb053b-f92a-4772-9ff7-cbe48ede66a7.png"></p>
+<p><img align="Center" <alt="coding" width="1000" height="390" src="https://user-ima![giphy](https://user-images.githubusercontent.com/127711945/229032840-b42dd65a-fce7-49fe-9243-eaf773e2d214.gif)
+ges.githubusercontent.com/127711945/229029947-74cb053b-f92a-4772-9ff7-cbe48ede66a7.png"></p>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <h1 style="text-align: center;">Hi 👋, I'm John Phillip Emmanuel B. Casingal</h1>
+  <h1 style="text-align: center;">  Hi 👋, I'm John Phillip Emmanuel B. Casingal</h1>
 </div>
 
 <h3 align="center">BS Information Technology specializing in Mobile and Web Application from National University - Manila, Philippines</h3>
