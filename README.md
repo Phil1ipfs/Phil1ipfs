@@ -21,7 +21,8 @@
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/phillip-casingal-5b04771bb/" target="_blank">
+  <a href="www.linkedin.com/in/
+phillipcasingal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/phillip-casingal-5b04771bb/" height="30" width="40" />
   </a>
 </p>
