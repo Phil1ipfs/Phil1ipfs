@@ -36,11 +36,7 @@
   <img align="right" <alt="coding" width="350" height="390" src="https://user-images.githubusercontent.com/127711945/229033748-6a06aca4-ff69-4f9e-9c6f-d2fd1b348ea2.gif">
 </p>
 <p align="left">
-
-  <a href="www.linkedin.com/in/
-
-phillipcasingal" target="_blank">
-
+  <a href="www.linkedin.com/in/phillipcasingal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/phillip-casingal-5b04771bb/" height="30" width="40" />
 
   </a>
