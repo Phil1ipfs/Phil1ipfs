@@ -1,12 +1,5 @@
 
 
-
-
-
-<p> <img align="Center" <alt="coding" width="1000" height="500" src="https://user-images.githubusercontent.com/127711945/236803709-b8a74e20-c780-46d8-84c2-fc42b860a734.gif">
-
-  </p>
-
  
 
 
