@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/29050694-0820-4e3d-9cc4-359a4b172dab)
 
  
 
@@ -17,7 +17,10 @@
   <img src="https://komarev.com/ghpvc/?username=phil1ipfs&label=Profile%20views&color=0e75b6&style=flat" alt="phil1ipfs" />
 
 </p>
-- 📫 How to reach me **johncasingal63@gmail.com**
+- 📫 How to reach me johncasingal63@gmail.com
+- Python Philippines Volunteer
+- Commitee Google Developers Student Club NU MANILA
+- AWS LEGARDA OFFICER
 
 <h3 align="left">Connect with me:</h3>
 
