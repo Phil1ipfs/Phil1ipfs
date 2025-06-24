@@ -11,7 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=phil1ipfs&label=Profile%20views&color=0e75b6&style=flat" alt="phil1ipfs" />
 </p>
 
-- 🐍 Python Enthusiast
 - 🌟 Python Philippines Volunteer
 - 👨‍💻 Committee Member, Google Developers Student Club NU MANILA
 - ☁️ AWS LEGARDA OFFICER
