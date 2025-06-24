@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/29050694-0820-4e3d-9cc4-359a4b172dab" alt="Python Logo" width="150" />
 </p>
 
-<h1 align="center">Hi 👋, I'm John Phillip Emmanuel B. Casingal</h1>
+<h1 align="left">Hi 👋, I'm John Phillip Emmanuel B. Casingal</h1>
 
 <h3 align="left">BS Information Technology Major in Mobile and Web Application</h3>
 <h4 align="left">National University - Manila, Philippines</h4>
