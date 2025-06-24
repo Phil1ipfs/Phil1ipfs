@@ -19,10 +19,6 @@
 </p>
 - 📫 How to reach me **johncasingal63@gmail.com**
 
-
-- I don't like combing my hair
-
-- **I am cute ehe :>**
 <h3 align="left">Connect with me:</h3>
 
 <p>
